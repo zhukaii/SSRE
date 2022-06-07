@@ -1,4 +1,3 @@
-# SSRE
 ## Self-Sustaining Representation Expansion forNon-Exemplar Class-Incremental Learning
 This is the implementation of the paper "Self-Sustaining Representation Expansion forNon-Exemplar Class-Incremental Learning" (accepted to CVPR2022).
 
