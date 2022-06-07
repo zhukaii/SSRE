@@ -1,4 +1,4 @@
-## Self-Sustaining Representation Expansion forNon-Exemplar Class-Incremental Learning
+## Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning
 This is the implementation of the paper "Self-Sustaining Representation Expansion forNon-Exemplar Class-Incremental Learning" (accepted to CVPR2022).
 
 For more information, check out the paper on [[arXiv](https://arxiv.org/abs/2203.06359)].
