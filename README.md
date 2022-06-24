@@ -24,7 +24,7 @@ Locate the above three datasets under ./data directory.
 ## Incremental Training.
 
 > ### 1. Download pretrained models to the 'pre' folder.
-> Pretrained models are available on our [[Google Drive](https://drive.google.com/file/d/1tjJ985pCidjH3NxaOt-M62YbJIB93hVx/view?usp=sharing)].
+> Pretrained models are available on our [[Google Drive](https://drive.google.com/drive/folders/1k0Z-yBbRCvZikk1YdCRVWRYxSb4FNmxq?usp=sharing)].
 
 
 > ### 2. Training
